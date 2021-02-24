@@ -46,8 +46,8 @@
 * Tags HTML de multimídia
 
 < img>
-&nbsp;
 
+&nbsp;
 > Terceira Aula
 * Tags HTML estruturais
 
@@ -57,5 +57,11 @@
 * Tag de link HTML
 
 < a> - Atributos href e target
-&nbsp;
 
+&nbsp;
+> Quarta Aula
+* Tag de link HTML
+
+< a> - Atributos href com mascara de email e telefone
+
+&nbsp;
