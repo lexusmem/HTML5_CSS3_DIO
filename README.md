@@ -47,3 +47,15 @@
 
 < img>
 &nbsp;
+
+> Terceira Aula
+* Tags HTML estruturais
+
+< div>
+&nbsp;
+
+* Tag de link HTML
+
+< a> - Atributos href e target
+&nbsp;
+
