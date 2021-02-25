@@ -65,3 +65,15 @@
 < a> - Atributos href com mascara de email e telefone
 
 &nbsp;
+> Quinta Aula
+* Introdução ao CSS
+* Informações sobre o CSS3
+* Criação de arquivo style para começar a estilizar o HTML
+
+* Elemento HTML
+
+< link> - especificar relação entre documento atual e um recurso externo.
+Elemento utilizado para vincular as folhas de estilo.
+Categoria de conteúdo: Metadata content.
+
+&nbsp;
