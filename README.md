@@ -77,3 +77,50 @@ Elemento utilizado para vincular as folhas de estilo.
 Categoria de conteúdo: Metadata content.
 
 &nbsp;
+> Sexta Aula
+* Inserindo estilo ao HTML utilizando CSS3
+
+Utilizando o CSS podemos selecionar qualquer elemento do HTML e alterar seus estilos e formatação (body, h1, h2, footer,etc)
+
+
+![Sintaxe CSS](img/sintaxe_css.png)
+
+**Seletor (Selector)**
+
+O nome do elemento HTML no começo do conjunto de regras. Ele seleciona o(s) elemento(s) a serem estilizados (nesse caso, elementos < p>). Para dar estilo a um outro elemento, é só mudar o seletor.
+
+**Declaração (Declaration)**
+
+Uma regra simples como color: red; especificando quais das propriedades do elemento você quer estilizar.
+
+**Propriedades (Property)**
+
+Forma pela qual você estiliza um elemento HTML. (Nesse caso, color é uma propriedade dos elementos < p>.) Em CSS, você escolhe quais propriedades você deseja afetar com sua regra.
+
+**Valor da propriedade (Property value)**
+
+À direita da propriedade, depois dos dois pontos, nós temos o valor de propriedade, que escolhe uma dentre muitas aparências possíveis para uma determinada propriedade (há muitos valores color(cor) além do red(vermelho)).
+
+
+## Propriedades CSS:
+
+**Font-Family** - Selecionar tipo de fonte;
+
+**Font-size** - Selecionar tamanho de fonte;
+
+**Margin-(top/left/right/bottom** - Selecionar tamanho da margem dos elementos;
+
+**Color** - Selecionar cor da fonte;
+
+**Background** - Selecionar cor da pagina;
+
+&nbsp;
+> Setima Aula
+
+* Aplicando estilo e formatação através das classes.
+
+
+Criar classe no elemento HTML class="elemento" que se deseja alterar com CSS, e no arquivo CSS
+deve indicar qual elemento deseja alterar atraves do "."
+
+Exemplo: .elemento{color: blue;}
